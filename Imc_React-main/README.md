@@ -14,4 +14,5 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # Para execultar  a calculadora
 - cd imc_React-main
+- npm i
 - npm run dev
